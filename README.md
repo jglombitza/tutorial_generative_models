@@ -5,13 +5,13 @@
 - Lecture: [Find the slides for the lecture on generative models here!](https://indico.desy.de/event/28296/timetable/#20210305)
 - Tutorial: Design of vanilla GANs
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Napoleongurke/tutorial_generative_models/blob/main/Vanilla_GAN.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Napoleongurke/tutorial_generative_models/blob/master/Vanilla_GAN.ipynb)
 
 ### Part II: Advanced Techniques / Wasserstein GANs
 - Lecture: [Find the slides for the lecture on advanced GAN methods here!](https://indico.desy.de/event/28296/timetable/#20210305)
 - Tutorial: Wasserstein GANs
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Napoleongurke/tutorial_generative_models/blob/main/WGAN.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Napoleongurke/tutorial_generative_models/blob/master/WGAN.ipynb)
 
 ## Software requirements:
 
