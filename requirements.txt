@@ -1,0 +1,7 @@
+matplotlib
+numpy
+tensorflow>=2.4.0
+imageio
+pydot
+gdown
+graphviz
