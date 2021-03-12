@@ -13,6 +13,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Napoleongurke/tutorial_generative_models/blob/master/WGAN.ipynb)
 
+
+### Solutions for the tasks can be found in the respective branch
+
+
 ## Software requirements:
 
 Install the requirements via:
