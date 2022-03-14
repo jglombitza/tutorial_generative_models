@@ -6,15 +6,15 @@
 - Lecture 2nd Terascale School, Hamburg: [Find the slides for the lecture on generative models here!](https://indico.desy.de/event/28296/timetable/#20210305
 - Tutorial: Design of vanilla GANs
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Napoleongurke/tutorial_generative_models/blob/master/Vanilla_GAN.ipynb)
+<a target="_blank" rel="noopener noreferrer" href="https://colab.research.google.com/github/Napoleongurke/tutorial_generative_models/blob/master/Vanilla_GAN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="drawing" width="180"/> </a>
+
 
 ### Part II: Advanced Techniques / Wasserstein GANs
 - Lecture Deep Learning Week, Uppsala:
 - Lecture: [Find the slides for the lecture on advanced GAN methods here!](https://indico.desy.de/event/28296/timetable/#20210305)
 - Tutorial: Wasserstein GANs
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Napoleongurke/tutorial_generative_models/blob/master/WGAN.ipynb)
-
+<a target="_blank" rel="noopener noreferrer" href="https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Napoleongurke/tutorial_generative_models/blob/master/WGAN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="drawing" width="180"/> </a>
 
 ### Solutions for the tasks can be found in the respective "solution" branch
 
