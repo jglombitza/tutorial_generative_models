@@ -14,7 +14,7 @@
 - Lecture 2nd Terascale School, Hamburg: : [Find the slides for the lecture on advanced GAN methods here!](https://indico.desy.de/event/28296/timetable/#20210305)
 - Tutorial: Wasserstein GANs
 
-<a target="_blank" rel="noopener noreferrer" href="https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Napoleongurke/tutorial_generative_models/blob/master/WGAN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="drawing" width="180"/> </a>
+<a target="_blank" rel="noopener noreferrer" href="https://colab.research.google.com/github/Napoleongurke/tutorial_generative_models/blob/master/WGAN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="drawing" width="180"/> </a>
 
 ### Solutions for the tasks can be found in the respective "solution" branch
 
